@@ -15,7 +15,7 @@ namespace AnimatorNode {
     [NodeType(
     Id = nameof(AnimatorNode), // Must be unique. Generate one at https://guidgenerator.com/
     Title = "Animator",
-    Category ="Fnugus")]
+    Category ="Fnugus")] 
     public class AnimatorNode : Node {
         [DataInput]
         public GameObjectAsset AnimatedAsset;
@@ -25,7 +25,7 @@ namespace AnimatorNode {
 
 
         public class Awaiter:MonoBehaviour {
-
+ 
         }
 
 

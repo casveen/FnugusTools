@@ -1,0 +1,7 @@
+[submodule "StreamLabs/SLOBSharp"] 
+  path = StreamLabs/SLOBSharp 
+  url = git://github.com/StephenMP/SLOBSharp
+
+[submodule "StreamLabs/TwitchLib"] 
+  path = StreamLabs/TwitchLib
+  url = git://github.com/TwitchLib/TwitchLib

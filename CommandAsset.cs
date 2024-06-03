@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 
-namespace Playground {
+namespace Playground { 
     [AssetType(Id = "CommandAsset")]
     public class CommandAsset : Asset {
         public enum ParseType {FLOAT, INT, STRING};
